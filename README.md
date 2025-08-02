@@ -19,5 +19,5 @@
 
 - alternative CDN domain
   - gcore.jsdelivr.net (top recommended,海内外速度都很稳定)
-  - testingcf.jsdelivr.ne (second recommended,海内外速度也不错，但时快时慢不太稳定，supported by Cloudflare)
+  - testingcf.jsdelivr.net (second recommended,海内外速度也不错，但时快时慢不太稳定，supported by Cloudflare)
   - cdn.jsdmirror.com (海内很快，海外太慢，supported by 腾讯云EdgeOne,虽然宣称全球加速)
